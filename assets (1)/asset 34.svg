@@ -1,0 +1,8 @@
+<svg viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1e3 -249)" d="M1030.6,297H1006a2,2,0,0,1-2-2V284"/>
+<path class="fill-even f-primary" transform="translate(-1e3 -249)" d="m1012 289a1 1 0 1 1-1 1 1 1 0 0 1 1-1zm4 0a1 1 0 1 1-1 1 1 1 0 0 1 1-1z"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1e3 -249)" d="m1005 268h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1zm15 0h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1zm-15-15h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1zm15 0h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1zm15 0h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1z"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1e3 -249)" d="m1034 279v-10a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v10"/>
+<circle class="no-fill stroke s-primary" cx="40" cy="40" r="12"/>
+<path class="fill-even f-primary" transform="translate(-1e3 -249)" d="M1033,293.032l5.41,0.8v-4.685H1033v3.888Zm0-5.176h5.41v-4.685l-5.41.8v3.888Zm6.66-4.936v4.936H1046v-5.87Zm0,11.16,6.34,0.933v-5.869h-6.34v4.936Z"/>
+</svg>

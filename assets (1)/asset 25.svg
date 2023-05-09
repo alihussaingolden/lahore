@@ -1,0 +1,8 @@
+<svg viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+<circle class="no-fill stroke s-primary" cx="28" cy="28" r="24"/>
+<path class="f-primary fill-even" transform="translate(-1970 -438)" d="M1987.43,462.512H1986l-1.74,5.774-1.37-5.774h-1.85l2.32,8.453h1.56l1.78-5.8,1.81,5.8h1.56l2.31-8.453h-1.85l-1.35,5.836Zm12,0H1998l-1.74,5.774-1.37-5.774h-1.85l2.32,8.453h1.56l1.78-5.8,1.81,5.8h1.56l2.31-8.453h-1.85l-1.35,5.836Zm12,0H2010l-1.74,5.774-1.37-5.774h-1.85l2.32,8.453h1.56l1.78-5.8,1.81,5.8h1.56l2.31-8.453h-1.85l-1.35,5.836Z"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1970 -438)" d="m1988 445 3 6-1 4 1 3"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1970 -438)" d="m2010 445-1 6-6 3v1"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1970 -438)" d="m1989 474-3 5 3 3 7 4-2 3"/>
+<path class="no-fill stroke s-primary fill-even" transform="translate(-1970 -438)" d="m2004 476 2 4-2 3-2 2-2 4"/>
+</svg>
