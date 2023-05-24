@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+<script>
+   var arr=[];
+    
+    var a=0;
+    do{
+        var name=prompt("enter the number")
+        arr.push(name);
+        var value=prompt("start again")
+        if(value=="y"){
+            continue;
+        }
+        else {
+            for(i=0; i<=arr; i++){
+                document.write(name+value[i])
+            }
+            
+            document.write(arr)
+            }
+            break;
+            a++;
+        }
+        
+    while(a<1)
+
+
+    
+</script>
+</body>
+</html>
